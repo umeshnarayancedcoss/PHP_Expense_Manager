@@ -1,3 +1,21 @@
 div{
     background-color: aqua;
 }
+table, td, th {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .btn{
+    height: 35px;
+    width:100px;
+    background-color:green;
+    color:white;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left: 60px;
+  }
